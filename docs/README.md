@@ -1,12 +1,9 @@
-# 友人 (Eugene) Documentation
+# SPIDER Documentation
 
-This directory contains the canonical project documentation.
-
-- `MANUAL.md` — official manual reference
-- `VOICEBANK.md` — canonical technical specification
-- `USAGE.md` — UTAU/OpenUtau usage guide
-- `CHARACTER.md` — character and lore reference
-- `MEDIA.md` — official demos, songs and external appearances
-- `RELEASES.md` — release and future-revision plan
-
-The supplied official manual is the source of truth for released-bank metadata, credits and terms.
+- `CHARACTER.md` — canonical character and worldbuilding profile
+- `VOICEBANK.md` — technical voicebank specification
+- `USAGE.md` — UTAU / OpenUtau usage guide
+- `MANUAL.md` — concise official manual reference
+- `MEDIA.md` — known SPIDER works and media
+- `RELEASES.md` — release history
+- `../TERMS.md` — current terms of use

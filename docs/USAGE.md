@@ -1,27 +1,17 @@
-# Usage Guide
+# SPIDER — Usage Guide
 
-## Compatibility
-
-友人 (Eugene) is a Japanese CVVC voicebank for UTAU and OpenUtau.
-
-## Official specification
-
-- Encoding: Romaji
-- Format: CVVC
-- Pitches: C3 / G3 / C4
-- Optimum BPM: 70–120
-- Recommended resamplers/tools: TIPS, Moresampler, WORLDLINE-R, wavtool4vcv
-
-See `VOICEBANK.md` for the complete specification and expression notes.
+SPIDER is a Japanese CVVC voicebank for UTAU and OpenUtau.
 
 ## Basic workflow
 
-1. Install the released voicebank.
-2. Use a Japanese CVVC-compatible workflow in UTAU or OpenUtau.
-3. Start with TIPS and moderate expression settings.
-4. Test sustained vowels and consonant transitions before building a full arrangement.
-5. Compare the recommended resamplers when a different texture is desired.
+1. Download the current SPIDER release.
+2. Install or import it using your normal UTAU / OpenUtau workflow.
+3. Use a Japanese CVVC-compatible setup.
+4. Start with Moresampler, TIPS or WORLDLINE-R and adjust according to the desired texture.
+5. Check the current release documentation when using aliases or subbanks.
 
-## Future examples
+## Voice profile
 
-This section is intentionally prepared for later additions: UST/USTX examples, phonemizer configuration, pronunciation examples, tuning demonstrations and troubleshooting.
+SPIDER is designed around precision, clarity, pattern and atmosphere. Its fictional identity also lends itself naturally to poetic, eerie, experimental and dark material.
+
+For current technical values, use `VOICEBANK.md`.

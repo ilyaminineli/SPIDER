@@ -1,0 +1,54 @@
+{
+  "name": "SPIDER",
+  "aliases": [
+    "The Glass Spider",
+    "Garasu Kumo (ガラス蜘蛛)"
+  ],
+  "type": "UTAU voicebank",
+  "version": "v1.0",
+  "introduced": "2026-10-05",
+  "engines": [
+    "UTAU",
+    "OpenUtau"
+  ],
+  "language": "Japanese",
+  "recording_method": "CVVC",
+  "encoding": "Romaji-encoded",
+  "aliasing": [
+    "CVVC",
+    "Kana"
+  ],
+  "subbanks": [
+    "_A4",
+    "_A3",
+    "_F3"
+  ],
+  "recording_range": "F2-D3",
+  "range": "C#2-A3",
+  "optimal_bpm": "80-150",
+  "sample_format": "44.1kHz / 16-bit",
+  "approx_size": "~500MB",
+  "gender": "Genderless",
+  "pronouns": "it/its",
+  "species": "Digital ghost / Crystalline algorithmic being",
+  "credits": {
+    "creator": "Ilya Minin (Eli)",
+    "co_creator": "Julia Baranyuk (Takismana)",
+    "voice_provider": "Julia Baranyuk (Takismana)",
+    "illustrator": "Ilya Minin (Eli)",
+    "oto_technical": "eikton"
+  },
+  "official_links": {
+    "repository": "https://github.com/ilyaminineli/SPIDER",
+    "website": "https://ilyaminineli.github.io/SPIDER/",
+    "voice_project": "https://t.me/vo_chto",
+    "creator_contact": "https://t.me/ilyaminineli"
+  },
+  "canonical_documents": {
+    "character": "docs/CHARACTER.md",
+    "manual": "docs/MANUAL.md",
+    "voicebank_specification": "docs/VOICEBANK.md",
+    "usage": "docs/USAGE.md",
+    "terms": "TERMS.md"
+  }
+}

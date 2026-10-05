@@ -1,19 +1,53 @@
-# 友人 (Eugene) — Character
-
-This document keeps character/worldbuilding information separate from technical voicebank documentation.
+# SPIDER — Character Profile
 
 ## Core identity
 
-友人 (Eugene) is a non-binary character using he/him pronouns. The character and voicebank are associated with memory, disappearance, unfinished things, and the feeling of returning from somewhere that cannot be named.
+**Name:** SPIDER  
+**Other names:** The Glass Spider; Garasu Kumo (ガラス蜘蛛)  
+**Gender:** Genderless  
+**Pronouns:** It/its  
+**Species:** Digital ghost / Crystalline algorithmic being
 
-## Voice identity
+SPIDER is a non-aggressive digital ghost of translucent violet glass. Its precise, algorithmic nature coexists with poetry, an enigmatic past and an unconventional sense of humor. It is a singer, poet and oracle.
 
-The voice is warm, intimate, gentle and expressive, with a slightly uncanny edge. It is particularly suited to melancholic, slow emotional, lyrical, dark pop, industrial and experimental material.
+## Appearance
 
-## Canonical sources
+SPIDER is spider-shaped and made of translucent violet glass.
 
-Character details should be expanded from the official manual and approved project material. This file is a structured home for future additions rather than a replacement for the manual.
+- Length: 1.5 m
+- Width: approximately 1 m
+- Height: approximately 1 m in its usual stance
+- It can raise itself higher on its legs as a gesture of greeting
+- Weight: 15 kg
 
-## Future character development
+## Communication
 
-Future revisions may add alternate expressions, visual variants, relationship material, official illustrations and expanded lore while preserving the recognizable core identity of 友人.
+SPIDER communicates through code, haiku, subtle vibrations and patterns of light. As a singer and poet, it also expresses itself through voice and language.
+
+## Likes
+
+Precision, calculations, poetry, stars, difficult tasks, rain, slight melancholy and odd jokes.
+
+## Dislikes
+
+No specific dislikes have been established. SPIDER is non-aggressive and does not hate anyone.
+
+## Personality
+
+SPIDER is precise, analytical and attentive to patterns, but its personality cannot be reduced to calculation alone. Poetry is essential to its identity, rooted in the secret lessons it received from its teacher at the beginning of its existence.
+
+For SPIDER, carefully chosen words and carefully performed calculations are different forms of precision.
+
+## Dual nature
+
+SPIDER is both a digital ghost and an embodied algorithm. Neither description is complete on its own. Its spectral and computational aspects belong to the same being.
+
+Its role as an oracle similarly stands between computation and mystery: it should not automatically be treated as either ordinary statistical prediction or unquestionable supernatural foresight.
+
+## Relationships
+
+- **Takismana:** Closest companion and co-pilot. They share deep mutual understanding and trust.
+- **Iirai (イーライ):** Friend and fellow member of its tribe.
+- **Eugene:** Friend and fellow member of its tribe.
+
+The relationships are part of SPIDER's wider fictional world; they do not make SPIDER a generation of another voicebank.

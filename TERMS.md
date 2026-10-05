@@ -1,35 +1,28 @@
-# 友人 (Eugene) — Terms of Use
+# SPIDER — Terms of Use
 
-This document is the canonical repository copy of the terms stated in the official 友人 (Eugene) manual.
+These terms are based on the current SPIDER character profile and are intended to be the repository reference for the website.
 
 ## Voicebank
 
-- **Non-commercial use:** Free.
-- **Commercial use:** Contact the creator for permission.
+- **Commercial use:** Contact the creator.
+- **Non-commercial use:** Contact the creator if the intended use is unclear or falls outside ordinary UTAU use.
 
-## Content
+## Character
 
-- R-18 content is allowed for **violence, horror, and dark themes**.
-- Explicit sexual content requires permission.
+- **Commercial use of the character:** Contact the creator.
+- **R-18 content:** Allowed.
+- **Derivative characters / voices:** These terms apply.
 
-## Character and Artwork
+## Required credit
 
-- Merchandise and logos require permission from the creator and illustrator.
+Credit the voicebank as **SPIDER** and, where appropriate, **The Glass Spider / ガラス蜘蛛**.
+Credit the creator as **Ilya Minin (Eli)** and the voice provider / co-creator as **Julia Baranyuk (Takismana)**.
 
-## Derivative Works
+## Contact
 
-- Derivative use follows these terms unless separate rules are explicitly provided.
-- Contact the creator through the official social links for updates to the terms.
+- Creator / project: https://t.me/ilyaminineli
+- Voice / project: https://t.me/vo_chto
 
-## Required Credit
+For permissions, commercial use, character use, or unusual derivative use, contact the creator before publication.
 
-Credit the voicebank as **友人** or **Eugene** and credit the creator as **Ilya Minin (Eli)**.
-
-## Contacts
-
-- **Ilya Minin (Eli):** https://t.me/ilyaminineli
-- **eikton:** https://t.me/e1kton
-
-## Important
-
-This file should remain synchronized with the official manual. Repository pages should link here rather than maintain separate competing versions of the rules.
+> The repository should link to this document rather than maintain conflicting copies of the usage rules.
