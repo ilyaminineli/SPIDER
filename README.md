@@ -29,9 +29,9 @@ SPIDER / ガラス蜘蛛 is a translucent violet-glass being that communicates t
 
 ## Links
 
-- GitHub: https://github.com/ilyaminineli/SPIDER
-- Website: https://ilyaminineli.github.io/SPIDER/
-- Voice / project: https://t.me/vo_chto
+- GitHub: <https://github.com/ilyaminineli/SPIDER>
+- Website: <https://ilyaminineli.github.io/SPIDER/>
+- Voice / project: <https://t.me/vo_chto>
 
 ## First song
 
@@ -39,9 +39,9 @@ SPIDER / ガラス蜘蛛 is a translucent violet-glass being that communicates t
 
 ## Official release links
 
-- YouTube — くらやみのまちかどで feat. SPIDER: https://youtu.be/yKywhBjlUKI?si=nqBgPnwKHj2mmNpz
-- BowlRoll: https://bowlroll.net/file/361798
-- GitHub Release: https://github.com/ilyaminineli/SPIDER/releases/tag/Release
+- YouTube — くらやみのまちかどで feat. SPIDER: <https://youtu.be/yKywhBjlUKI?si=nqBgPnwKHj2mmNpz>
+- BowlRoll: <https://bowlroll.net/file/361798>
+- GitHub Release: <https://github.com/ilyaminineli/SPIDER/releases/tag/Release>
 
 ## Credits
 

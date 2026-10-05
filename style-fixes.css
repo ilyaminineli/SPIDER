@@ -1,2 +1,30 @@
-html{overflow-x:hidden}body{min-height:100vh}button,a{-webkit-tap-highlight-color:transparent}:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
-@media(max-width:760px){.media-grid,.telegram-grid,.media-feature{grid-template-columns:1fr}.media-feature{padding:.8rem}}
+html {
+    overflow-x: hidden
+}
+
+body {
+    min-height: 100vh
+}
+
+button,
+a {
+    -webkit-tap-highlight-color: transparent
+}
+
+:focus-visible {
+    outline: 2px solid var(--blue);
+    outline-offset: 3px
+}
+
+@media(max-width:760px) {
+
+    .media-grid,
+    .telegram-grid,
+    .media-feature {
+        grid-template-columns: 1fr
+    }
+
+    .media-feature {
+        padding: .8rem
+    }
+}

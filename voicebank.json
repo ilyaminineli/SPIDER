@@ -2,7 +2,10 @@
   "name": "友人",
   "romanized_name": "Eugene",
   "type": "UTAU voicebank",
-  "engines": ["UTAU", "OpenUtau"],
+  "engines": [
+    "UTAU",
+    "OpenUtau"
+  ],
   "language": "Japanese",
   "recording_method": "CVVC",
   "encoding": "Romaji-encoded",
@@ -14,11 +17,23 @@
   "weight_kg": 43,
   "species": "Human (augmented)",
   "birthday": "2026-06-06",
-  "pitches": ["C3", "G3", "C4"],
+  "pitches": [
+    "C3",
+    "G3",
+    "C4"
+  ],
   "range": "G#3-D3",
   "optimal_bpm": "70-120",
-  "genres": ["Dark pop", "Industrial", "Experimental"],
-  "features": ["Consonant clarity", "High end", "Bass"],
+  "genres": [
+    "Dark pop",
+    "Industrial",
+    "Experimental"
+  ],
+  "features": [
+    "Consonant clarity",
+    "High end",
+    "Bass"
+  ],
   "recommended_tools": [
     "TIPS",
     "Moresampler",
