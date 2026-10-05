@@ -42,7 +42,10 @@
     "repository": "https://github.com/ilyaminineli/SPIDER",
     "website": "https://ilyaminineli.github.io/SPIDER/",
     "voice_project": "https://t.me/vo_chto",
-    "creator_contact": "https://t.me/ilyaminineli"
+    "creator_contact": "https://t.me/ilyaminineli",
+    "youtube": "https://youtu.be/yKywhBjlUKI?si=nqBgPnwKHj2mmNpz",
+    "bowlroll": "https://bowlroll.net/file/361798",
+    "release": "https://github.com/ilyaminineli/SPIDER/releases/tag/Release"
   },
   "canonical_documents": {
     "character": "docs/CHARACTER.md",
@@ -50,5 +53,6 @@
     "voicebank_specification": "docs/VOICEBANK.md",
     "usage": "docs/USAGE.md",
     "terms": "TERMS.md"
-  }
+  },
+  "first_song_url": "https://youtu.be/yKywhBjlUKI?si=nqBgPnwKHj2mmNpz"
 }

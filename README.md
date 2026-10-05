@@ -37,6 +37,12 @@ SPIDER / ガラス蜘蛛 is a translucent violet-glass being that communicates t
 
 **くらやみのまちかどで feat. SPIDER**
 
+## Official release links
+
+- YouTube — くらやみのまちかどで feat. SPIDER: https://youtu.be/yKywhBjlUKI?si=nqBgPnwKHj2mmNpz
+- BowlRoll: https://bowlroll.net/file/361798
+- GitHub Release: https://github.com/ilyaminineli/SPIDER/releases/tag/Release
+
 ## Credits
 
 - Creator / Illustrator: Ilya Minin (Eli)
